@@ -1,0 +1,27 @@
+<?php
+
+return [
+	'pageNotFound' => 'Page not found',
+    'dearUser' => 'Dear site visitor!',
+    'notFoundTitle' => 'The page you requested does not exist or an error has occurred.',
+    'notFoundText' => 'If you are sure that the specified address is correct, then this page no longer exists on the server or has been renamed.',
+    'backToHome' => 'Go back to the main page',
+    'leaveRequest' => 'LEAVE A REQUEST',
+    'kazakhstan' => 'KAZAKHSTAN',
+    'almaty' => 'Almaty',
+    'astana' => 'Nur-Sultan',
+    'taraz' => 'Taraz',
+    'shymkent' => 'Shymkent',
+    'leaveRequestContact' => 'Leave a request and we will contact you!',
+    'sendMessage' => 'Send a message',
+    'nameForm' => 'Your name*',
+    'emailForm' => 'E-mail*',
+    'phoneForm' => 'Contact number*',
+    'textForm' => 'Message',
+    'thanks' => 'Thank you!',
+    'requestSend' => 'Your request has been sent.',
+    'callbackAns' => 'We will contact you soon.',
+    'subscribedThanks' => 'You have subscribed to information data.',
+    'feedbackModalTitle' => 'Apply for participation',
+    'close' => 'Close',
+];
